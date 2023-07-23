@@ -1,10 +1,10 @@
 {
-    "name": "theme-dracula",
-    "version": "2.24.3",
-    "displayName": "Dracula Official",
+    "name": "theme-black-dracula",
+    "version": "1.0.0",
+    "displayName": "Black Dracula Official",
     "homepage": "https://draculatheme.com/",
-    "description": "Official Dracula Theme. A dark theme for many editors, shells, and more.",
-    "publisher": "dracula-theme",
+    "description": "Official Black Dracula Theme. A super dark theme for many editors, shells, and more.",
+    "publisher": "black-dracula-theme",
     "license": "MIT",
     "scripts": {
         "build": "node ./scripts/build.js",
@@ -57,8 +57,8 @@
         "vsce": "^2.15.0"
     },
     "__metadata": {
-        "id": "4e44877c-1c8d-4f9c-ba86-1372d0fbeeb1",
-        "publisherDisplayName": "Dracula Theme",
-        "publisherId": "fbb3d024-f8f2-460c-bdb5-99552f6d8c4b"
+        "id": "8e03e570-8da4-43e5-b82f-6d64d4fd86a8",
+        "publisherDisplayName": "Black Dracula Theme",
+        "publisherId": "0657c56a-1a86-609a-a4ba-87f5493ea458"
     }
 }
