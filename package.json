@@ -33,7 +33,8 @@
         "dracula",
         "dark",
         "theme",
-        "color-theme"
+        "color-theme",
+        "black"
     ],
     "icon": "icon.png",
     "galleryBanner": {
