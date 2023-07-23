@@ -1,8 +1,13 @@
-# Black Dracula Official
+<p align="center">
+  <img src="https://raw.githubusercontent.com/d3cryptofc/black-dracula-vscode/master/icon.png">
+</p>
 
-> A black dark theme for [Visual Studio Code](http://code.visualstudio.com), but with a black background and contrast. Great for your eyes!
+<h1 align="center">Black Dracula Official</h1>
+<p align="center">A black dark theme for <a href="http://code.visualstudio.com">Visual Studio Code</a>, but with a black background and contrast.<br><b>Great for your eyes!</b></p>
 
-![Screenshot](https://raw.githubusercontent.com/d3cryptofc/black-dracula-vscode/master/screenshot.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/d3cryptofc/black-dracula-vscode/master/screenshot.png">
+</p>
 
 ## Installation
 
