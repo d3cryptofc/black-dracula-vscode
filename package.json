@@ -14,15 +14,7 @@
         "vsce-publish": "vsce publish"
     },
     "maintainers": [
-        "Derek Sifford"
-    ],
-    "contributors": [
-        "Krzysztof Wisznarewski",
-        "Daniel Ramos",
-        "Eric Jackson",
-        "Elliott Pogue",
-        "Ajit Singh",
-        "Teddy Bradford"
+        "Lelzin"
     ],
     "repository": {
         "type": "git",
