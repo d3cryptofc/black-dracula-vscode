@@ -1,6 +1,6 @@
-# Dracula for [Visual Studio Code](http://code.visualstudio.com)
+# Black Dracula Official
 
-> A dark theme for [Visual Studio Code](http://code.visualstudio.com).
+> A black dark theme for [Visual Studio Code](http://code.visualstudio.com), but with a black background and contrast. Great for your eyes!
 
 ![Screenshot](https://raw.githubusercontent.com/d3cryptofc/black-dracula-vscode/master/screenshot.png)
 
